@@ -1,5 +1,13 @@
 source 'https://rubygems.org'
 
+gem 'aws-sdk' 
+
+gem "fog", "~> 1.3.1"
+
+gem 'figaro'
+
+gem 'carrierwave-aws' 
+
 gem 'simple_form'
 
 gem 'devise', '>= 3.2.4'
