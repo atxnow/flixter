@@ -6,7 +6,7 @@ gem "fog", "~> 1.3.1"
 
 gem 'figaro'
 
-gem 'carrierwave-aws' 
+gem 'carrierwave' 
 
 gem 'simple_form'
 
