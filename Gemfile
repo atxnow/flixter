@@ -4,7 +4,7 @@ gem 'carrierwave-aws'
 
 gem 'mini_magick'
 
-gem 'aws-sdk-core' 
+gem 'aws-sdk' 
 
 gem 'figaro'
 
