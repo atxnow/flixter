@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'mini_magick'
+
 gem 'aws-sdk' 
 
 gem "fog", "~> 1.3.1"
