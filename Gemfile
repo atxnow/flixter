@@ -1,10 +1,10 @@
 source 'https://rubygems.org'
 
+gem 'carrierwave-aws' 
+
 gem 'mini_magick'
 
-gem 'aws-sdk' 
-
-gem "fog", "~> 1.3.1"
+gem 'aws-sdk-core' 
 
 gem 'figaro'
 
